@@ -10,4 +10,4 @@ commit 5953cbffd5ec66055da8caadc5fe26fcb3142adf - Added stylesheet for home and 
 
 ## Task 5 - AI Reflection
 
-I asked Claude AI what code to insert in the .gitignore file with the requirements being that it excludes venv/ and **pycache**/ in the file.
+I asked Claude AI what code to insert in the .gitignore file with the requirements being that it excludes venv/ and **pycache**/ in the file. What the model populated works because it included the requirements in the code and successfully told it what to skip.
