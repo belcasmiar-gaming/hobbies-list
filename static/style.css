@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    background-color: #d3d0d0;
+    text-align: center;
+    color:rgb(4, 49, 49);
+}
+
+ul {
+    display: inline-block;
+    text-align: left;
+}
